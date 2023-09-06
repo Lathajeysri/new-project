@@ -1,0 +1,8 @@
+.list-group-item::before {
+    content: '\2022'; /* Unicode character for a bullet (dot) */
+    margin-right: 0.4rem; /* Adjust as needed */
+  }
+  .rowwidth{
+width:50% !important;
+margin: 0 auto !important;
+  }
